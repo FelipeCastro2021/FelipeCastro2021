@@ -1,7 +1,13 @@
-### Sou o Felipe Castro Ferreira
+<h1> Olá, Sou o Felipe Castro, desenvolvedor Front-End! </h1>
 
-- 🌱 Estudando Javascript e Sass
-- 👯 I’m looking to collaborate on ...
+<p align="center">
+<a href="https://www.linkedin.com/in/felipe-castro-ferreira/"><img src="https://img.shields.io/badge/-Felipe%20Castro-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:felipe.ferreira65@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-felipe.ferreira65@fatec.sp.gov.br-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ 
+- 📟 Domino os pilares do desenvolvimento para web, HTML 5, CSS 3 e JavaScript
+- 🌱 Estudando React para potencializar a criação de sites e aplicativos web
+ 
+<h1> Informações do meu perfil </h1>
 
 <!-- Use winky + . = abrir listagem de ícones ou copie do emojipedia -->
 
@@ -11,17 +17,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCastro2021&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<br/>
+
+## Front-End:
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
 ## <!-- Cria um linha horizontal -->
- 
-<div> 
-  <a href = "mailto:felipe2021castro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-castro-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/FelipeCastro2021/FelipeCastro2021/blob/output/github-contribution-grid-snake.svg) 
   
