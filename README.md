@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/felipe-castro-ferreira/"><img src="https://img.shields.io/badge/-Felipe%20Castro-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipe.ferreira65@fatec.sp.gov.br"><img src="https://img.shields.io/badge/-felipe.ferreira65@fatec.sp.gov.br-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:felipe2021castro@gmail.com"><img src="https://img.shields.io/badge/-felipe2021castro@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
 - 📟 Domino os pilares do desenvolvimento para web, HTML 5, CSS 3 e JavaScript
 - 🌱 Estudando React para potencializar a criação de sites e aplicativos web
