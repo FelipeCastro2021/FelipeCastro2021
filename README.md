@@ -9,8 +9,6 @@
  
 <h1> Informações do meu perfil </h1>
 
-<!-- Use winky + . = abrir listagem de ícones ou copie do emojipedia -->
-
  <div>
   <a href="https://github.com/FelipeCastro2021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCastro2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
