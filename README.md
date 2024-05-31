@@ -7,7 +7,7 @@
 - 📟 Domino os pilares do desenvolvimento web: HTML 5, CSS 3 e JavaScript
 - 🌱 Estudando React para potencializar a criação de sites e aplicativos web
  
-<h1> Informações do meu perfil </h1>
+<h1> Informações do meu perfil </h1> 
 
  <div>
   <a href="https://github.com/FelipeCastro2021">
